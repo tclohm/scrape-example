@@ -1,0 +1,9 @@
+{
+  "name": "scrape-trends",
+  "version": "1.0.0",
+  "description": "little scrapper",
+  "main": "index.js",
+  "author": "taylor",
+  "license": "MIT",
+  "private": null
+}
