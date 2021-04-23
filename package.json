@@ -5,5 +5,10 @@
   "main": "index.js",
   "author": "taylor",
   "license": "MIT",
-  "private": null
+  "private": null,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "got": "^11.8.2",
+    "p-map": "^5.0.0"
+  }
 }
